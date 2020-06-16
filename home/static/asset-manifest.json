@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e7867db.chunk.css",
+    "main.js": "/static/js/main.42731527.chunk.js",
+    "main.js.map": "/static/js/main.42731527.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16c57403.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16c57403.js.map",
+    "static/css/2.d22cd3da.chunk.css": "/static/css/2.d22cd3da.chunk.css",
+    "static/js/2.37b75402.chunk.js": "/static/js/2.37b75402.chunk.js",
+    "static/js/2.37b75402.chunk.js.map": "/static/js/2.37b75402.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e2c748d5971ca42d2a58bd3c0d5359b.js": "/precache-manifest.1e2c748d5971ca42d2a58bd3c0d5359b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d22cd3da.chunk.css.map": "/static/css/2.d22cd3da.chunk.css.map",
+    "static/css/main.3e7867db.chunk.css.map": "/static/css/main.3e7867db.chunk.css.map",
+    "static/js/2.37b75402.chunk.js.LICENSE.txt": "/static/js/2.37b75402.chunk.js.LICENSE.txt",
+    "static/media/helpinghands.png": "/static/media/helpinghands.e44de644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16c57403.js",
+    "static/css/2.d22cd3da.chunk.css",
+    "static/js/2.37b75402.chunk.js",
+    "static/css/main.3e7867db.chunk.css",
+    "static/js/main.42731527.chunk.js"
+  ]
+}
